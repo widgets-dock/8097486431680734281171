@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69245800811",
+    "project_id": "trick-spinner-the-whell",
+    "storage_bucket": "trick-spinner-the-whell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69245800811:android:e5633c9651d442da7afc2e",
+        "android_client_info": {
+          "package_name": "com.congorbejat.trkspnerthwll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69245800811-19lem7l9qume43kl433abo2v5jdaeeop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyYyl_KbhxPOXMSdFAfXG-Bxe6QJtQaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69245800811-19lem7l9qume43kl433abo2v5jdaeeop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
